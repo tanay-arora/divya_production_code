@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'TeXGyreTermes';
+    src: url('../fonts/TeXGyreTermes-../fonts/TeXGyreTermes-TeXGyreTermes-Italic.woff2') format('woff2'),
+        url('../fonts/TeXGyreTermes-TeXGyreTermes-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TeXGyreTermes';
+    src: url('../fonts/TeXGyreTermes-../fonts/TeXGyreTermes-TeXGyreTermes-Regular.woff2') format('woff2'),
+        url('../fonts/TeXGyreTermes-TeXGyreTermes-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
